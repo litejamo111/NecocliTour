@@ -1,19 +1,70 @@
 <resources>
-    <string name="app_name">SanRafa</string>
+    <string name="app_name">Necocli</string>
+    <string name="main">Necocli Antioquia</string>
+    <string name="mhotel">Hoteles</string>
+    <string name="mrestaurant">Restaurantes</string>
+    <string name="msitios">Sitios Turisticos</string>
+    //hoteles
     <string name="titulohomehoteles">Hoteles en Necocli</string>
-    <string name="descripcionhomehoteles">En nuestro pueblo encontrara alojamientos desde 35000 COP
+    <string name="descripcionhomehoteles">En nuestro pueblo encontrara alojamientos desde 125000 COP
         hasta lujosas cabañas dotadas de todos los elementos para promover un descanso restauradordor. Visitanos</string>
     <string name="botonhomehoteles">Ver Hoteles</string>
-
+    <string name="hotel1">Hotel costa norte</string>
+    <string name="dhotel1">Hotel Costa Norte se encuentra en Necoclí, a 6 min a pie de Playa El Pescador y a 700 metros de Playa El Turista,
+        y dispone de zona de playa privada.</string>
+    <string name="hotel2">Hotel la ensenada</string>
+    <string name="dhotel2">Hotel La Ensenada Necocli está en Necoclí, a 3 min a pie de Playa El Turista, y dispone de alojamiento con jardín,
+        parking privado gratis y terraza.</string>
+    <string name="hotel3">Hotel casa blanca</string>
+    <string name="dhotel3">HOTEL CASA BLANCA está en Necoclí y tiene restaurante y bar. Este hotel de 5 estrellas ofrece jardín y
+        tiene habitaciones con aire acondicionado, wifi gratis y baño privado.
+    </string>
+    <string name="hotel4">Cabañas Mar Caribe</string>
+    <string name="dhotel4">Cabañas Mar Caribe dispone de jardín, salón de uso común, terraza y restaurante en Necoclí. El hotel, que cuenta con bar,
+        está cerca de varios lugares de interés destacados, a unos 4 min a pie de Playa El Pescador y a 1 km de Playa El Turista. El alojamiento ofrece servicio de habitaciones y recepción 24 horas.
+    </string>
+    <string name="hotel5">Alpha Hotel Boutique</string>
+    <string name="dhotel5">Alpha Hotel Boutique ofrece alojamiento de 4 estrellas en Necoclí, frente a la playa, y tiene salón de uso común, terraza y restaurante. El hotel, que tiene bar, está cerca de varios lugares de interés destacados, a unos 3 min a pie de Playa El Turista, a 800 metros de Playa El Mirador y a menos de 1 km de Playa El Pescador. El alojamiento dispone de recepción 24 horas,
+        traslado para ir o volver del aeropuerto, centro de negocios y wifi gratis en todo el alojamiento.
+    </string>
+    //restaurantes
+    <string name="titulorestaurantes">Restaurantes en Necocli</string>
+    <string name="descripcionrestaurantes">En nuestro pueblo encontrara restaurantes desde 35000 COP o menos y
+        hasta lujosos restaurantes 5 estrellas con la mejor sazon del pueblo</string>
+    <string name="botonrestaurantes">Ver restaurantes</string>
+    <string name="res1">Restaurante y hotel mar adentro</string>
+    <string name="dres1">Es un hotel agradable y barato. Muy central y con excelente atención. Frente al mar buen servicio de mesas.</string>
+    <string name="res2">Restaurante ISY (24 horas)</string>
+    <string name="dres2">Buena calidad a precios muy bajos, para los comelones la solución es pedir doble porción, jajaja</string>
+    <string name="res3">Restaurante el ganadero</string>
+    <string name="dres3">La comida bastante buena, los frijoles estaban deliciosos. La atención bastante amable y
+        los precios razonables para la cantidad de comida que sirven.</string>
+    <string name="res4">Antorches En La Arena)</string>
+    <string name="dres4">Buena calidad a precios muy bajos y uh lugar perfecto para comer en familia
+        con un menu de Caribeña, Bar, Café, Mariscos, Pub, Sudamericana, Colombiana.</string>
+    <string name="res5">Restaurante Galapagos</string>
+    <string name="dres5">un restaurante familiar enfocado a la comida caribeña y los mariscos cerca a la playa un lugar perfecto para disfrutar de una buena comida
+    y el ambiente local.</string>
+    //sitios
+    <string name="titulositios">Sitios Turisticos en Necocli</string>
+    <string name="descripcionsitios">En nuestro pueblo encontrara sitios turisticos que te llevaran a un sin fin de relajacion y diversion
+            con algunos conocidos como el volcan de lodo de arboletes</string>
+    <string name="botonsitios">Ver sitios turisticos</string>
+    <string name="sit1">CALLEJÓN DE LAS PALMAS</string>
+    <string name="dsit1">El callejón de las palmas es un espacio artístico, histórico y cultural, donde se puede apreciar murales que cuentan un poco de la historia, costumbres y cultura del municipio a través del arte, además como su nombre lo indica cuenta con la presencia de palmeras, de gran tamaño y antigüedad. </string>
+    <string name="sit2">ÁRBOL MÁGICO DEL AMOR Y LA VIDA</string>
+    <string name="dsit2">Es un caracolí de más de 240 años ,11 metros de perímetro y 12 metros de altura,​ al cual la comunidad le atribuye milagros y el cumplimiento de muchos deseos, razón por la q​ue se le da este nombre, en el interior del árbol pueden ingresar 12 personas aproximadamente y se puede apreciar la entrada de la luz solar desde la parte más alta de la copa, la cual se encuentra hueca.</string>
+    <string name="sit3">CASA DE NUESTRAS CULTURAS</string>
+    <string name="dsit3">La casa de Nuestras Culturas ´Eloísa Garcés Ladeus´ es una construcción reciente con una combinación de arquitectura española y detalles de la región en su diseño, se constituye en un espacio para el encuentro de la cultura local posee una biblioteca con áreas de lectura cuya vista al mar es su principal característica, adicionalmente cuenta con salas de ensayo para danzas y música que son aprovechadas por los jóvenes del municipio.​
+</string>
+    <string name="sit4">CENTRO ECOTURISTICO Y ARQUEOLÓGICO EL CARLOS</string>
+    <string name="dsit4">Colección arqueológica compuesta por 170 piezas de la cultura Zenú, estas se encuentran alojadas en una construcción tradicional de madera y palma tipo maloca, en la vereda el Carlos Adentro del municipio de Necoclí en el centro Ecoturístico y Arqueológico el Carlos.  Las piezas fueron registradas y catalogadas por antropólogos allí se destacan: urnas ceremoniales herramientas de trabajo accesorios para rituales y otros elementos de uso cotidiano. </string>
+    <string name="sit5">CERRO DEL ÁGUILA</string>
+    <string name="dsit5">l cerro del Águila, es una de las últimas estribaciones de la serranía de ABIBE, es una elevación cercana al mar con una altura de 100 metros de altitud aproximadamente, se encuentra ubicado en el norte del municipio de Necoclí, limitando con la Playa Bobal la cual presenta aproximadamente 1,2 km de extensión, así mismo por estar rodeado de varios ecosistemas cuenta con variedad de especies de fauna y flora.</string>
+    //menu
     <string name="menuopcion1">Ingles</string>
     <string name="menuopcion2">Español</string>
-    <string name="menuopcion3">Portugues</string>
+    <string name="menuopcion3">Portuges</string>
     <string name="menuopcion4">Reseña</string>
     <string name="menuopcion5">Acerca de</string>
-    <string name="titulohome">Necocli Antioquia</string>
-    <string name="botonhoteles">Hoteles</string>
-    <string name="botonsitios">Sitios</string>
-    <string name="botonrestaurantes">Restaurantes</string>
-
-
 </resources>

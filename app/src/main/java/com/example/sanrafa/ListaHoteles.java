@@ -34,7 +34,11 @@ public class ListaHoteles extends AppCompatActivity {
     }
 
     public void crearListaHoteles(){
-        listaHoteles.add(new Hotel("hoteles el mocho","3225962363","calle 100","500 usd",4,R.drawable.hotel1));
-        listaHoteles.add(new Hotel("hoteles donde alicia","2548898","calle ","500 usd",4,R.drawable.hotele2));
+        listaHoteles.add(new Hotel(getString(R.string.hotel1),"3225962363",getString(R.string.dhotel1),"COP 125.000",4,R.drawable.hotel1));
+        listaHoteles.add(new Hotel(getString(R.string.hotel2),"2548898",getString(R.string.dhotel2),"COP 125.000",4,R.drawable.hotel2));
+        listaHoteles.add(new Hotel(getString(R.string.hotel3),"2548898",getString(R.string.dhotel3),"COP 185.000",4,R.drawable.hotel3));
+        listaHoteles.add(new Hotel(getString(R.string.hotel4),"2548898",getString(R.string.dhotel4),"COP 125.000",4,R.drawable.hotel4));
+        listaHoteles.add(new Hotel(getString(R.string.hotel5),"2548898",getString(R.string.dhotel5),"COP 250.000",4,R.drawable.hotel5));
+
     }
 }

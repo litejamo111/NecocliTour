@@ -15,6 +15,7 @@ public class HotelesAmpliados extends AppCompatActivity {
     TextView tituloHotel;
     ImageView imagenHotel;
     TextView calificacionHotel;
+    TextView descripcionhotel;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,6 +25,7 @@ public class HotelesAmpliados extends AppCompatActivity {
         tituloHotel=findViewById(R.id.tituloampliadohoteles);
         imagenHotel=findViewById(R.id.fotoampliandohoteles);
         calificacionHotel=findViewById(R.id.calificacionaplaindohoteles);
+        descripcionhotel=findViewById(R.id.descripcionhotelesamp);
 
 
         datoshotel=(Hotel)getIntent().getSerializableExtra("datoshotel");
@@ -31,6 +33,7 @@ public class HotelesAmpliados extends AppCompatActivity {
         tituloHotel.setText(datoshotel.getNombre());
         imagenHotel.setImageResource(datoshotel.getFoto());
         calificacionHotel.setText(Integer.toString(datoshotel.getCalificacion()));
+        descripcionhotel.setText(datoshotel.getDireccion());
 
     }
 }

@@ -32,7 +32,10 @@ public class listasitios extends AppCompatActivity {
     }
 
     public void crearlistasitios(){
-        listasitios.add(new sitio("hoteles el mocho","3225962363","calle 100","500 usd",4,R.drawable.hotel1));
-        listasitios.add(new sitio("hoteles donde alicia","2548898","calle ","500 usd",4,R.drawable.hotele2));
+        listasitios.add(new sitio(getString(R.string.sit1),"3225962363",getString(R.string.dsit1),"Gratis",5,R.drawable.sit1));
+        listasitios.add(new sitio(getString(R.string.sit2),"2548898",getString(R.string.dsit2),"Gratis",5,R.drawable.sit2));
+        listasitios.add(new sitio(getString(R.string.sit3),"3225962363",getString(R.string.dsit3),"Gratis",5,R.drawable.sit3));
+        listasitios.add(new sitio(getString(R.string.sit4),"2548898",getString(R.string.dsit4),"COP 20000",5,R.drawable.sit4));
+        listasitios.add(new sitio(getString(R.string.sit5),"3225962363",getString(R.string.dsit5),"Gratis",5,R.drawable.sit5));
     }
 }

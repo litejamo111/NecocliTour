@@ -84,8 +84,9 @@ public class Home extends AppCompatActivity {
             Intent intentIngles=new Intent(Home.this, Home.class);
             startActivity(intentIngles);
         }else if(itemSeleccionado==R.id.opcion3){
-            Intent intentResena = new Intent(Home.this, Resena.class);
-            startActivity(intentResena);
+            this.cambiarIdioma("pt");
+            Intent intentIngles=new Intent(Home.this, Home.class);
+            startActivity(intentIngles);
         }else if(itemSeleccionado==R.id.opcion4){
             Toast.makeText(this, "presiono opcion 4", Toast.LENGTH_SHORT).show();
         }else if(itemSeleccionado==R.id.opcion5){

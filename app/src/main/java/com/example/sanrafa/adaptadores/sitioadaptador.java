@@ -54,6 +54,8 @@ public class sitioadaptador extends RecyclerView.Adapter<sitioadaptador.viewHold
         TextView nombresitioMolde;
         TextView preciositioMolde;
 
+        TextView descripcionsitiosamp;
+
         public viewHolder(@NonNull View itemView) {
             super(itemView);
             fotositioMolde=itemView.findViewById(R.id.fotomoldesitios);

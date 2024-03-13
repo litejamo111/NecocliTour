@@ -15,6 +15,8 @@ public class sitiosampliados extends AppCompatActivity {
     ImageView imagensitio;
     TextView calificacionsitio;
 
+    TextView descripcionsito;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -23,6 +25,7 @@ public class sitiosampliados extends AppCompatActivity {
         titulositio=findViewById(R.id.tituloampliadositios);
         imagensitio=findViewById(R.id.fotoampliandositios);
         calificacionsitio=findViewById(R.id.calificacionaplainsitios);
+        descripcionsito=findViewById(R.id.descripcionsitioamp);
 
 
         datositio=(sitio)getIntent().getSerializableExtra("datositio");
@@ -30,6 +33,7 @@ public class sitiosampliados extends AppCompatActivity {
         titulositio.setText(datositio.getNombre());
         imagensitio.setImageResource(datositio.getFoto());
         calificacionsitio.setText(Integer.toString(datositio.getCalificacion()));
+        descripcionsito.setText(datositio.getDireccion());
 
     }
 }
