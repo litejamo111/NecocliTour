@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SanRafa</string>
+    <string name="titulohomehoteles">Hoteles en Necocli</string>
+    <string name="descripcionhomehoteles">En nuestro pueblo encontrara alojamientos desde 35000 COP
+        hasta lujosas cabañas dotadas de todos los elementos para promover un descanso restauradordor. Visitanos</string>
+    <string name="botonhomehoteles">Ver Hoteles</string>
+
+    <string name="menuopcion1">Ingles</string>
+    <string name="menuopcion2">Español</string>
+    <string name="menuopcion3">Portugues</string>
+    <string name="menuopcion4">Reseña</string>
+    <string name="menuopcion5">Acerca de</string>
+    <string name="titulohome">Necocli Antioquia</string>
+    <string name="botonhoteles">Hoteles</string>
+    <string name="botonsitios">Sitios</string>
+    <string name="botonrestaurantes">Restaurantes</string>
+
+
+</resources>

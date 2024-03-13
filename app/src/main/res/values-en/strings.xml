@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SanRafa</string>
+    <string name="titulohomehoteles">Hoteles en SanRafa </string>
+    <string name="descripcionhomehoteles">our hotels are the best</string>
+    <string name="botonhomehoteles">looking for Hoteles</string>
+
+    <string name="menuopcion1">English</string>
+    <string name="menuopcion2">Spanish</string>
+    <string name="menuopcion3">Italian</string>
+    <string name="menuopcion4">Review</string>
+    <string name="menuopcion5">About us</string>
+
+
+
+</resources>
